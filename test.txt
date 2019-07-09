@@ -1,0 +1,439 @@
+0
+-------------------
+size: 77 byte
+daddr: 00:50:56:fe:53:8e
+saddr: 00:0c:29:96:4a:b6
+type: 800
+version: 4
+ihl: 5
+tot_len: 63 byte
+protocol: 17
+saddr: 192.168.189.135
+daddr: 192.168.189.002
+1
+-------------------
+size: 77 byte
+daddr: 00:50:56:fe:53:8e
+saddr: 00:0c:29:96:4a:b6
+type: 800
+version: 4
+ihl: 5
+tot_len: 63 byte
+protocol: 17
+saddr: 192.168.189.135
+daddr: 192.168.189.002
+2
+-------------------
+size: 93 byte
+daddr: 00:0c:29:96:4a:b6
+saddr: 00:50:56:fe:53:8e
+type: 800
+version: 4
+ihl: 5
+tot_len: 79 byte
+protocol: 17
+saddr: 192.168.189.002
+daddr: 192.168.189.135
+3
+-------------------
+size: 77 byte
+daddr: 00:0c:29:96:4a:b6
+saddr: 00:50:56:fe:53:8e
+type: 800
+version: 4
+ihl: 5
+tot_len: 63 byte
+protocol: 17
+saddr: 192.168.189.002
+daddr: 192.168.189.135
+4
+-------------------
+size: 74 byte
+daddr: 00:50:56:fe:53:8e
+saddr: 00:0c:29:96:4a:b6
+type: 800
+version: 4
+ihl: 5
+tot_len: 60 byte
+protocol: 6
+saddr: 192.168.189.135
+daddr: 210.143.102.046
+data size: 12
+sport: 0
+dport: 0
+...Y+......5
+-------------------
+size: 60 byte
+daddr: 00:0c:29:96:4a:b6
+saddr: 00:50:56:fe:53:8e
+type: 800
+version: 4
+ihl: 5
+tot_len: 44 byte
+protocol: 6
+saddr: 210.143.102.046
+daddr: 192.168.189.135
+data size: -4
+sport: 0
+dport: 0
+6
+-------------------
+size: 54 byte
+daddr: 00:50:56:fe:53:8e
+saddr: 00:0c:29:96:4a:b6
+type: 800
+version: 4
+ihl: 5
+tot_len: 40 byte
+protocol: 6
+saddr: 192.168.189.135
+daddr: 210.143.102.046
+data size: -8
+sport: 0
+dport: 0
+7
+-------------------
+size: 185 byte
+daddr: 00:50:56:fe:53:8e
+saddr: 00:0c:29:96:4a:b6
+type: 800
+version: 4
+ihl: 5
+tot_len: 171 byte
+protocol: 6
+saddr: 192.168.189.135
+daddr: 210.143.102.046
+data size: 123
+sport: 0
+dport: 0
+...Y+......@......Z+.............PV.S...).J...E....:@.@..$......f.._.PLw...)i.P.r.....GET /linuxkernelmemo/ HTTP/1.1..Use8
+-------------------
+size: 60 byte
+daddr: 00:0c:29:96:4a:b6
+saddr: 00:50:56:fe:53:8e
+type: 800
+version: 4
+ihl: 5
+tot_len: 40 byte
+protocol: 6
+saddr: 210.143.102.046
+daddr: 192.168.189.135
+data size: -8
+sport: 0
+dport: 0
+9
+-------------------
+size: 2974 byte
+daddr: 00:0c:29:96:4a:b6
+saddr: 00:50:56:fe:53:8e
+type: 800
+version: 4
+ihl: 5
+tot_len: 2960 byte
+protocol: 6
+saddr: 210.143.102.046
+daddr: 192.168.189.135
+data size: 2912
+sport: 27760
+dport: 25449
+...Y+......@......Z+..............).J..PV.S...E...-R....K(..f......P._.)i.Lw..P....p..HTTP/1.1 200 OK..Date: Sun, 12 Aug 2018 04:44:24 GMT..Server: Apache..X-Powered-By: PHP/5.3.3..Connection: close..Transfer-Encoding: chunked..Content-Type: text/html....4628..<html>.  <head>.    <meta HTTP-EQUIV="content-type" CONTENT="text/html; charset=UTF-8">.    .        <script type="text/javascript" src="/wiki/js/comment.js"></script>.        <link rel="stylesheet" href="/wiki/usercss/default2.css" type="text/css">.    <link rel="stylesheet" href="/wiki/css/viewcommon.css" type="text/css">.    <link rel="alternate" type ="application/rss+xml" title="RSS" href="/linuxkernelmemo/rss.xml">.    <title>FrontPage - Linux..................</title>..<script type="text/javascript">..  var _gaq = _gaq || [];.  _gaq.push(['_setAccount', 'UA-4496744-2']);.  _gaq.push(['_trackPageview']);..  (function() {.    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;.    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';.    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);.  })();..</script>.  </head>..  <body>.    <style>..header {.background-image: url(http://wiki.bit-hive.com/linuxkernelmemo/upload/1/6c696e7578.gif);.background-repeat: no-repeat;.background-position: 70px 25px;.background-attachment: scroll;.}.</style>..    <div class="rootbox">.      <div class="infoheader"><a href='http://wiki.bit-hive.com/'><img src='/wiki/images/minilogo.gif' align='absmiddle'style='border-style:none;'></a></div>.      <div class="header">..<div class="title"><h1><a id="titlelink" href="/linuxkernelmemo/">Linux..................</a></h1></div>..<div class="description">Linux Kernel(2.6).................................</div>.      </div>..      <div class="body">...<div class="leftside">..  <div class="plugin"><div class="pluginbar">............</div><div class="pluginbody"><a href="/wiki/edit.php?wiki=linuxkernelmemo&pg=FrontPage">......</a><br><a href="/wiki/new.php?wiki=linuxkernelmemo&mode=rich">...............</a><br><a href="/wiki/upload.php?wiki=linuxkernelmemo&pg=FrontPage">......</a><br><a href="/linuxkernelmemo/pghist/?pg=FrontPage&start=0">......</a><br><a href="/linuxkernelmemo/pglist/?start=0">...............</a><br><a href="/wiki/manage.php?wiki=linuxkernelmemo">......</a></div></div><div class="plugin"><div class="pluginbar">.........</div><div class="pluginbody"><p><strong>............Wiki</strong><br><a class="a_el" href="/tomizoo/">.....................</a><br><a class="a_el" href="/xnumemo/">Xnu......</a></p>.<p><strong>......</strong><br><a class="a_el" href="http://www.bit-hive.com/">(...)..................</a><br><a class="a_el" href="http://www.bit-hive.com/development.shtml">............</a>..................</p></div></div><div class="plu10
+-------------------
+size: 54 byte
+daddr: 00:50:56:fe:53:8e
+saddr: 00:0c:29:96:4a:b6
+type: 800
+version: 4
+ihl: 5
+tot_len: 40 byte
+protocol: 6
+saddr: 192.168.189.135
+daddr: 210.143.102.046
+data size: -8
+sport: 27760
+dport: 25449
+11
+-------------------
+size: 1514 byte
+daddr: 00:0c:29:96:4a:b6
+saddr: 00:50:56:fe:53:8e
+type: 800
+version: 4
+ihl: 5
+tot_len: 1500 byte
+protocol: 6
+saddr: 210.143.102.046
+daddr: 192.168.189.135
+data size: 1452
+sport: 14373
+dport: 9523
+...Y+......@......Z+..............).J..PV.S...E...-T....P...f......P._.)u.Lw..P...8...'latestpage_date'>2015/4/25</div>.<div class='latestpage_pagename'>...<a href="/linuxkernelmemo/pg/listen%20backlog%20%E3%80%903.6%E3%80%91">listen backlog ...3.6...</a></div>.<div class='latestpage_date'>2015/4/14</div>.<div class='latestpage_pagename'>...<a href="/linuxkernelmemo/pg/FrontPage">FrontPage</a></div>.<div class='latestpage_date'>2011/3/31</div>.<div class='latestpage_pagename'>...<a href="/linuxkernelmemo/pg/%E3%83%9A%E3%83%BC%E3%82%B8%E3%83%95%E3%82%A9%E3%83%AB%E3%83%88%20-%20%E5%80%8B%E3%80%85%E3%81%AE%E3%83%8F%E3%83%B3%E3%83%89%E3%83%A9">..................... - .....................</a></div>.<div class='latestpage_date'>2011/3/26</div>.<div class='latestpage_pagename'>...<a href="/linuxkernelmemo/pg/64bit%E7%92%B0%E5%A2%83%E3%81%A7%E3%81%AE32bit%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E3%81%AE%E5%8B%95%E4%BD%9C">64bit............32bit.....................</a></div>.<div class='latestpage_date'>2010/12/26</div>.<div class='latestpage_pagename'>...<a href="/linuxkernelmemo/pg/64bit%E3%81%A7%E3%81%AE%E3%82%A2%E3%83%89%E3%83%AC%E3%82%B9%E7%A9%BA%E9%96%93">64bit........................</a></div>.<div class='latestpage_date'>2010/11/17</div>.<div class='latestpage_pagename'>...<a href="/linuxkernelmemo/pg/GDT%E8%A8%AD%E5%AE%9A">GDT......</a></div>.<div class='latestpage_date'>2008/1/14</div>.<div class='latestpage_pagename'>...<a hre12
+-------------------
+size: 54 byte
+daddr: 00:50:56:fe:53:8e
+saddr: 00:0c:29:96:4a:b6
+type: 800
+version: 4
+ihl: 5
+tot_len: 40 byte
+protocol: 6
+saddr: 192.168.189.135
+daddr: 210.143.102.046
+data size: -8
+sport: 14373
+dport: 9523
+13
+-------------------
+size: 1514 byte
+daddr: 00:0c:29:96:4a:b6
+saddr: 00:50:56:fe:53:8e
+type: 800
+version: 4
+ihl: 5
+tot_len: 1500 byte
+protocol: 6
+saddr: 210.143.102.046
+daddr: 192.168.189.135
+data size: 1452
+sport: 28274
+dport: 27749
+...Y+......@......Z+..............).J..PV.S...E...-U....P...f......P._.)z.Lw..P...<...ge_date'>2007/12/9</div>.<div class='latestpage_pagename'>...<a href="/linuxkernelmemo/pg/block_write_full_page%28%29">block_write_full_page()</a></div>.<div class='latestpage_date'>2007/10/5</div>.<div class='latestpage_pagename'>...<a href="/linuxkernelmemo/pg/WriteBack%E5%87%A6%E7%90%86">WriteBack......</a></div>.<div class='latestpage_pagename'>...<a href="/linuxkernelmemo/pg/pdflush">pdflush</a></div>.</div></div><div class="plugin"><div class="pluginbar">......</div><div class="pluginbody"><form method='GET' action='/linuxkernelmemo/' enctype='multipart/form-data'><input type='hidden' name='md' value='search' /><input type='text' name='q' value='' style='width:90%;margin:5px 0px'/><br><input value='......' name='search' type='submit' /></form></div></div>..</div>...<div class="center" id="docbody">..      <h1 class="pagename">FrontPage</h1>.    <br>.    <div class="contents">.      Linux Kernel(2.6).................................<br>...................................../........................<br>.<br>.3.6...........................3.6...............<br>.<br>.<h3 class='h3_el'> ............</h3>.<ul class='ul1_el'>.<li><a class='a_el' href='/linuxkernelmemo/pg/%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9'>............</a></li>.<li><a class='a_el' href='/linuxkernelmemo/pg/%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E3%81%AEBlock%E3%81%A8Wakeup'>...14
+-------------------
+size: 54 byte
+daddr: 00:50:56:fe:53:8e
+saddr: 00:0c:29:96:4a:b6
+type: 800
+version: 4
+ihl: 5
+tot_len: 40 byte
+protocol: 6
+saddr: 192.168.189.135
+daddr: 210.143.102.046
+data size: -8
+sport: 28274
+dport: 27749
+15
+-------------------
+size: 1514 byte
+daddr: 00:0c:29:96:4a:b6
+saddr: 00:50:56:fe:53:8e
+type: 800
+version: 4
+ihl: 5
+tot_len: 1500 byte
+protocol: 6
+saddr: 210.143.102.046
+daddr: 192.168.189.135
+data size: 1452
+sport: 58296
+dport: 42371
+...Y+......@......Z+..............).J..PV.S...E...-V....P...f......P._.)..Lw..P...TT..3%AD%E3%82%BB%E3%82%B9%E3%81%AE%E5%84%AA%E5%85%88%E5%BA%A6'>........................</a></li>.<li><a class='a_el' href='/linuxkernelmemo/pg/%E3%82%B3%E3%83%B3%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81'>..............................</a></li>.<li><a class='a_el' href='/linuxkernelmemo/pg/%E3%83%97%E3%83%AA%E3%82%A8%E3%83%B3%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3'>........................</a></li>.<li><a class='a_el' href='/linuxkernelmemo/pg/%E3%82%B9%E3%82%B1%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%A9'>..................</a></li>.<li><a class='a_el' href='/linuxkernelmemo/pg/RunQueue'>RunQueue</a></li>.<li><a class='a_el' href='/linuxkernelmemo/pg/WaitQueue'>WaitQueue</a></li>.<li><a class='a_el' href='/linuxkernelmemo/pg/WorkQueue'>WorkQueue</a></li>.<li><a class='a_el' href='/linuxkernelmemo/pg/%E4%BE%8B%E5%A4%96%E5%87%A6%E7%90%86'>............</a></li>.<li><a class='a_el' href='/linuxkernelmemo/pg/%E5%89%B2%E3%82%8A%E8%BE%BC%E3%81%BF%E5%87%A6%E7%90%86'>..................</a></li>.<li><a class='a_el' href='/linuxkernelmemo/pg/%E3%83%9A%E3%83%BC%E3%82%B8%E3%83%95%E3%82%A9%E3%83%AB%E3%83%88'>.....................</a></li>.<li><a class='a_el' href='/linuxkernelmemo/pg/%E3%83%9A%E3%83%BC%E3%82%B8%E3%83%95%E3%82%A9%E3%83%AB%E3%83%88%20-%20%E5%80%8B%E3%80%85%E3%81%AE%E3%83%8F%E3%83%B3%E3%83%89%E3%83%A9'>..................... -16
+-------------------
+size: 54 byte
+daddr: 00:50:56:fe:53:8e
+saddr: 00:0c:29:96:4a:b6
+type: 800
+version: 4
+ihl: 5
+tot_len: 40 byte
+protocol: 6
+saddr: 192.168.189.135
+daddr: 210.143.102.046
+data size: -8
+sport: 58296
+dport: 42371
+17
+-------------------
+size: 1514 byte
+daddr: 00:0c:29:96:4a:b6
+saddr: 00:50:56:fe:53:8e
+type: 800
+version: 4
+ihl: 5
+tot_len: 1500 byte
+protocol: 6
+saddr: 210.143.102.046
+daddr: 192.168.189.135
+data size: 1452
+sport: 9523
+dport: 13125
+...Y+......@......Z+..............).J..PV.S...E...-W....P...f......P._.).4Lw..P...x...%E3%83%88%E5%89%B2%E3%82%8A%E8%BE%BC%E3%81%BF'>.....................</a></li>.<li><a class='a_el' href='/linuxkernelmemo/pg/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%AB'>.....................</a></li>.<li><a class='a_el' href='/linuxkernelmemo/pg/%E6%8E%92%E4%BB%96%E5%88%B6%E5%BE%A1%E9%96%A2%E9%80%A3'>..................</a></li>.<li><a class='a_el' href='/linuxkernelmemo/pg/%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB'>...............</a></li>.<li><a class='a_el' href='/linuxkernelmemo/pg/64bit%E7%92%B0%E5%A2%83%E3%81%A7%E3%81%AE32bit%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E3%81%AE%E5%8B%95%E4%BD%9C'>64bit............32bit.....................</a></li>.</ul>.<br>.<h3 class='h3_el'> ...............</h3>.<ul class='ul1_el'>.<li><a class='a_el' href='/linuxkernelmemo/pg/%E3%82%A2%E3%83%89%E3%83%AC%E3%82%B9%E7%A9%BA%E9%96%93'>..................</a></li>.<li><a class='a_el' href='/linuxkernelmemo/pg/%E3%82%A2%E3%83%89%E3%83%AC%E3%82%B9%E7%A9%BA%E9%96%93%E3%81%AE%E7%AE%A1%E7%90%86'>...........................</a></li>.<li><a class='a_el' href='/linuxkernelmemo/pg/%E3%82%AB%E3%83%BC%E3%83%8D%E3%83%AB%E7%A9%BA%E9%96%93%E3%81%AE%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%9E%E3%83%83%E3%83%97'>.......................................</a></li>.<li><a class='a_el' href='/linuxkernelmemo/pg/64bit%E3%81%A7%E3%81%AE%E3%82%A2%E3%83%89%E3%83%AC%E3%82%B918
+-------------------
+size: 54 byte
+daddr: 00:50:56:fe:53:8e
+saddr: 00:0c:29:96:4a:b6
+type: 800
+version: 4
+ihl: 5
+tot_len: 40 byte
+protocol: 6
+saddr: 192.168.189.135
+daddr: 210.143.102.046
+data size: -8
+sport: 9523
+dport: 13125
+19
+-------------------
+size: 1514 byte
+daddr: 00:0c:29:96:4a:b6
+saddr: 00:50:56:fe:53:8e
+type: 800
+version: 4
+ihl: 5
+tot_len: 1500 byte
+protocol: 6
+saddr: 210.143.102.046
+daddr: 192.168.189.135
+data size: 1452
+sport: 26480
+dport: 28719
+...Y+......@......Z+..............).J..PV.S...E...-X....P...f......P._.)..Lw..P.......lmemo/pg/HighMemory'>HighMemory</a></li>.<li><a class='a_el' href='/linuxkernelmemo/pg/kmalloc%2Cvmalloc'>kmalloc,vmalloc</a></li>.<li><a class='a_el' href='/linuxkernelmemo/pg/%E7%89%A9%E7%90%86%E3%83%9A%E3%83%BC%E3%82%B8%E7%AE%A1%E7%90%86'>.....................</a></li>.<li><a class='a_el' href='/linuxkernelmemo/pg/%E3%82%B9%E3%83%A9%E3%83%96%E3%82%A2%E3%83%AD%E3%82%B1%E3%83%BC%E3%82%BF'>........................</a></li>.<li><a class='a_el' href='/linuxkernelmemo/pg/Rmap'>Rmap</a></li>.<li><a class='a_el' href='/linuxkernelmemo/pg/proc%2Fmeminfo'>proc/meminfo</a></li>.<li><a class='a_el' href='/linuxkernelmemo/pg/%E7%A9%BA%E3%81%8D%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%AE%E7%A2%BA%E4%BF%9D'>........................</a></li>.<li><a class='a_el' href='/linuxkernelmemo/pg/kswapd'>kswapd</a></li>.<li><a class='a_el' href='/linuxkernelmemo/pg/Swap'>Swap</a></li>.<li><a class='a_el' href='/linuxkernelmemo/pg/Swap%20-%20Swap%E9%A0%98%E5%9F%9F%E3%81%AE%E7%99%BB%E9%8C%B2'>Swap - Swap...............</a></li>.<li><a class='a_el' href='/linuxkernelmemo/pg/Swap%20-%20%E3%83%9A%E3%83%BC%E3%82%B8%E3%82%A2%E3%82%A6%E3%83%88'>Swap - ..................</a></li>.<li><a class='a_el' href='/linuxkernelmemo/pg/Swap%20-%20%E3%83%9A%E3%83%BC%E3%82%B8%E3%82%A4%E3%83%B3'>Swap - ...............</a></li>.<li><a class='a_el' href='/linuxkernelmemo/pg/Swap%E9%96%A2%E9%80%A3%20
+-------------------
+size: 54 byte
+daddr: 00:50:56:fe:53:8e
+saddr: 00:0c:29:96:4a:b6
+type: 800
+version: 4
+ihl: 5
+tot_len: 40 byte
+protocol: 6
+saddr: 192.168.189.135
+daddr: 210.143.102.046
+data size: -8
+sport: 26480
+dport: 28719
+21
+-------------------
+size: 1514 byte
+daddr: 00:0c:29:96:4a:b6
+saddr: 00:50:56:fe:53:8e
+type: 800
+version: 4
+ihl: 5
+tot_len: 1500 byte
+protocol: 6
+saddr: 210.143.102.046
+daddr: 192.168.189.135
+data size: 1452
+sport: 12143
+dport: 26480
+...Y+......@......Z+..............).J..PV.S...E...-Y....P...f......P._.)..Lw..P......._el' href='/linuxkernelmemo/pg/SwapCache'>SwapCache</a></li>.<li><a class='a_el' href='/linuxkernelmemo/pg/GDT%E8%A8%AD%E5%AE%9A'>GDT......</a></li>.</ul>.<br>.<h3 class='h3_el'> ..................</h3>.<ul class='ul1_el'>.<li><a class='a_el' href='/linuxkernelmemo/pg/%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9'>..............................</a></li>.<li><a class='a_el' href='/linuxkernelmemo/pg/%E9%80%81%E5%8F%97%E4%BF%A1'>.........</a></li>.<li><a class='a_el' href='/linuxkernelmemo/pg/%E3%83%AB%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB'>..............................</a></li>.<li><a class='a_el' href='/linuxkernelmemo/pg/IPv4'>IPv4</a></li>.<li><a class='a_el' href='/linuxkernelmemo/pg/%E3%82%A2%E3%83%89%E3%83%AC%E3%82%B9%E8%A7%A3%E6%B1%BA%E3%83%97%E3%83%AD%E3%83%88%E3%82%B3%E3%83%AB'>.................................</a></li>.<li><a class='a_el' href='/linuxkernelmemo/pg/ARP'>ARP</a></li>.<li><a class='a_el' href='/linuxkernelmemo/pg/%E3%83%95%E3%82%A3%E3%83%AB%E3%82%BF'>............</a></li>.<li><a class='a_el' href='/linuxkernelmemo/pg/sk_buff'>sk_buff</a></li>.<li><a class='a_el' href='/linuxkernelmemo/pg/listen%20backlog%20%E3%80%903.6%E3%80%91'>listen backlog ...3.6...</a></li>.</ul>.<br>.<h3 class='h3_el'> I/O</h3>.<ul class='ul1_el'>.<li><a class22
+-------------------
+size: 54 byte
+daddr: 00:50:56:fe:53:8e
+saddr: 00:0c:29:96:4a:b6
+type: 800
+version: 4
+ihl: 5
+tot_len: 40 byte
+protocol: 6
+saddr: 192.168.189.135
+daddr: 210.143.102.046
+data size: -8
+sport: 12143
+dport: 26480
+23
+-------------------
+size: 1514 byte
+daddr: 00:0c:29:96:4a:b6
+saddr: 00:50:56:fe:53:8e
+type: 800
+version: 4
+ihl: 5
+tot_len: 1500 byte
+protocol: 6
+saddr: 210.143.102.046
+daddr: 192.168.189.135
+data size: 1452
+sport: 33763
+dport: 58261
+...Y+......@......Z+..............).J..PV.S...E...-Z....P...f......P._.).PLw..P.......</li>.<li><a class='a_el' href='/linuxkernelmemo/pg/I%2FO%E3%82%B9%E3%82%B1%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%A9'>I/O..................</a></li>.<li><a class='a_el' href='/linuxkernelmemo/pg/Anticipatory%20I%2FO%E3%82%B9%E3%82%B1%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%A9'>Anticipatory I/O..................</a></li>.<li><a class='a_el' href='/linuxkernelmemo/pg/Anticipatory%20I%2FO%E3%82%B9%E3%82%B1%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%A9%20%E3%81%9D%E3%81%AE2'>Anticipatory I/O.................. ......2</a></li>.</ul>.<br>.<h3 class='h3_el'> ........................</h3>.<ul class='ul1_el'>.<li><a class='a_el' href='/linuxkernelmemo/pg/Virtual%20File%20System'>Virtual File System</a></li>.<li><a class='a_el' href='/linuxkernelmemo/pg/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E9%96%A2%E9%80%A3%E6%A7%8B%E9%80%A0%E4%BD%93'>.......................................</a></li>.<li><a class='a_el' href='/linuxkernelmemo/pg/Ext2%20FS'>Ext2 FS</a></li>.<li><a class='a_el' href='/linuxkernelmemo/pg/Ext2%20FS%20%E5%AE%9F%E8%A3%85'>Ext2 FS ......</a></li>.<li><a class='a_el' href='/linuxkernelmemo/pg/PageCache'>PageCache</a></li>.<li><a class='a_el' href='/linuxkernelmemo/pg/Buffer'>Buffer</a></li>.<li><a class='a_el' href='/linuxkernelmemo/pg/generic_file_read%28%29'>generic_file_read()</a></li>.<li><a class='a_el' href='/linuxkernelmemo24
+-------------------
+size: 54 byte
+daddr: 00:50:56:fe:53:8e
+saddr: 00:0c:29:96:4a:b6
+type: 800
+version: 4
+ihl: 5
+tot_len: 40 byte
+protocol: 6
+saddr: 192.168.189.135
+daddr: 210.143.102.046
+data size: -8
+sport: 33763
+dport: 58261
+25
+-------------------
+size: 1514 byte
+daddr: 00:0c:29:96:4a:b6
+saddr: 00:50:56:fe:53:8e
+type: 800
+version: 4
+ihl: 5
+tot_len: 1500 byte
+protocol: 6
+saddr: 210.143.102.046
+daddr: 192.168.189.135
+data size: 1452
+sport: 27708
+dport: 15977
+...Y+......@......Z+..............).J..PV.S...E...-[....P...f......P._.)..Lw..P.......29'>block_read_full_page()</a></li>.<li><a class='a_el' href='/linuxkernelmemo/pg/Read%20Ahead'>Read Ahead</a></li>.<li><a class='a_el' href='/linuxkernelmemo/pg/generic_file_write%28%29'>generic_file_write()</a></li>.<li><a class='a_el' href='/linuxkernelmemo/pg/block_prepare_write%28%29'>block_prepare_write()</a></li>.<li><a class='a_el' href='/linuxkernelmemo/pg/generic_commit_write%28%29'>generic_commit_write()</a></li>.<li><a class='a_el' href='/linuxkernelmemo/pg/block_write_full_page%28%29'>block_write_full_page()</a></li>.<li><a class='a_el' href='/linuxkernelmemo/pg/Boundary%20Buffer'>Boundary Buffer</a></li>.<li><a class='a_el' href='/linuxkernelmemo/pg/pdflush'>pdflush</a></li>.<li><a class='a_el' href='/linuxkernelmemo/pg/WriteBack%E5%87%A6%E7%90%86'>WriteBack......</a></li>.<li><a class='a_el' href='/linuxkernelmemo/pg/mpage_writepages%28%29'>mpage_writepages()</a></li>.<li><a class='a_el' href='/linuxkernelmemo/pg/get_block%28%29%E3%83%8F%E3%83%B3%E3%83%89%E3%83%A9'>get_block()............</a></li>.<li><a class='a_el' href='/linuxkernelmemo/pg/ext2_get_block%28%29'>ext2_get_block()</a></li>.<li><a class='a_el' href='/linuxkernelmemo/pg/Read%E9%96%A2%E9%80%A3'>Read......</a></li>.</ul>.<br>.<h3 class='h3_el'> ........................</h3>.<ul class='ul1_el'>.<li><a class='a_el' href='/linuxkernelmemo/pg/%E3%83%96%E3%83%AD%E3%83%826
+-------------------
+size: 54 byte
+daddr: 00:50:56:fe:53:8e
+saddr: 00:0c:29:96:4a:b6
+type: 800
+version: 4
+ihl: 5
+tot_len: 40 byte
+protocol: 6
+saddr: 192.168.189.135
+daddr: 210.143.102.046
+data size: -8
+sport: 27708
+dport: 15977
+27
+-------------------
+size: 1514 byte
+daddr: 00:0c:29:96:4a:b6
+saddr: 00:50:56:fe:53:8e
+type: 800
+version: 4
+ihl: 5
+tot_len: 1500 byte
+protocol: 6
+saddr: 210.143.102.046
+daddr: 192.168.189.135
+data size: 1452
+sport: 28005
+dport: 12143
+...Y+......@......Z+..............).J..PV.S...E...-\....P...f......P._.)..Lw..P....K..a_el' href='/linuxkernelmemo/pg/%E5%85%A5%E5%8A%9B%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9'>..................</a></li>.<li><a class='a_el' href='/linuxkernelmemo/pg/IDE%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF'>IDE............</a></li>.<li><a class='a_el' href='/linuxkernelmemo/pg/tty'>tty</a></li>.<li><a class='a_el' href='/linuxkernelmemo/pg/ICH6R'>ICH6R</a></li>.</ul>.<br>.<h3 class='h3_el'> .........</h3>.<ul class='ul1_el'>.<li><a class='a_el' href='/linuxkernelmemo/pg/bzImage'>bzImage</a></li>.<li><a class='a_el' href='/linuxkernelmemo/pg/Radix%20Tree'>Radix Tree</a></li>.</ul>.<br>.<h3 class='h3_el'> ... - Linux2.4..................</h3>.<ul class='ul1_el'>.<li><a class='a_el' href='/linuxkernelmemo/pg/%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%9E%E3%83%83%E3%83%97'>..................</a></li>.<li><a class='a_el' href='/linuxkernelmemo/pg/%E3%83%9A%E3%83%BC%E3%82%B8%E7%AE%A1%E7%90%86'>...............</a></li>.<li><a class='a_el' href='/linuxkernelmemo/pg/%E3%82%B9%E3%83%A9%E3%83%96%E3%82%A2%E3%83%AD%E3%82%B1%E3%83%BC%E3%82%BF%E3%80%902.4%E3%80%91'>...........................2.4...</a></li>.<li><a class='a_el' href='/linuxkernelmemo/pg/vmalloc'>vmalloc</a></li>.<li><a class='a_el' href='/linuxkernelmemo/pg/%E3%81%9D%E3%81%AE%E4%BB%96'>.........</a></li>.</ul>.<br>..    </div>.    <div class="adsense" style="margin-top:50px;"><script type="text/javascrip28
+-------------------
+size: 54 byte
+daddr: 00:50:56:fe:53:8e
+saddr: 00:0c:29:96:4a:b6
+type: 800
+version: 4
+ihl: 5
+tot_len: 40 byte
+protocol: 6
+saddr: 192.168.189.135
+daddr: 210.143.102.046
+data size: -8
+sport: 28005
+dport: 12143
+29
+-------------------
+size: 2136 byte
+daddr: 00:0c:29:96:4a:b6
+saddr: 00:50:56:fe:53:8e
+type: 800
+version: 4
+ihl: 5
+tot_len: 2122 byte
+protocol: 6
+saddr: 210.143.102.046
+daddr: 192.168.189.135
+data size: 2074
+sport: 28516
+dport: 10359
+...Y+......@......Z+..............).J..PV.S...E..J-]....Nc..f......P._.).lLw..P....*..h = 468;.google_ad_height = 60;.google_enable_async = false;.//-->.</script>.<script type="text/javascript".src="http://pagead2.googlesyndication.com/pagead/show_ads.js">.</script></div>.    <hr>.    <div class="lastupdate">.      ............ 2015/04/14 23:29:02 - kztomita<br />.      (2006/03/27 12:40:16 ......).    </div>.    <div class="commentlinks"><a href="/linuxkernelmemo/comment/?pg=FrontPage&start=0">....................................(0)</a> | <span class="commentlinktext" id="IDcommentswitch" onclick="switchCommentWindow();">..............................</span></div>.    <div id="comment_formcontainer"></div>.<div class="comment_container" id="IDcommentcontainer" style="position:absolute;visibility:hidden;">.  <span class="comment_title">.....................</span>.  <div class="comment_body" id="IDcommentbody">.    <div class='comment_contents'>.................................</div>.  </div>.</div>.    <div class="uploadfile">..................<br><a href='/linuxkernelmemo/upload/1/6c696e7578.gif'>linux.gif</a> - kztomita<br></div>.    <br><br>..</div>...<div class="close"></div>.      </div>..      <div class="menu">[<a href="/wiki/edit.php?wiki=linuxkernelmemo&pg=FrontPage">......</a>]&nbsp;[<a href="/wiki/new.php?wiki=linuxkernelmemo&mode=rich">...............</a>]&nbsp;[<a href="/wiki/upload.php?wiki=linuxkernelmemo&pg=FrontPage">......</a>]&nbsp;[<a href="/linuxkernelmemo/pghist/?pg=FrontPage&start=0">......</a>]&nbsp;[<a href="/linuxkernelmemo/pglist/?start=0">...............</a>]&nbsp;[<a href="/wiki/manage.php?wiki=linuxkernelmemo">......</a>]&nbsp;</div>.      <
